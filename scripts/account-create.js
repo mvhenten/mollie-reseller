@@ -26,6 +26,8 @@ api.post({
 
     country: '1'
 
-}, function() {
+}, function(err, result) {
+    console.log(result);
+
     process.exit();
 });
