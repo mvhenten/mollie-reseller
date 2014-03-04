@@ -1,12 +1,12 @@
 {
-  "name": "mollie-reseller",
-  "version": "0.0.0",
-  "description": "Client for the mollie reseller API",
-  "main": "index.js",
-  "scripts": {
-    "test": "mocha test"
-  },
-  "keywords": [
+    "name": "mollie-reseller",
+    "version": "0.0.0",
+    "description": "Client for the mollie reseller API",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha test"
+    },
+    "keywords": [
     "mollie",
     "payment",
     "reseller",
@@ -16,10 +16,15 @@
     "psp",
     "ecommerce"
   ],
-  "author": "Matthijs van Henten",
-  "license": "GPLv3",
-  "devDependencies": {
-    "js-beautify": "~1.4.2",
-    "jshint": "~2.4.4"
-  }
+    "author": "Matthijs van Henten",
+    "license": "GPLv3",
+    "devDependencies": {
+        "js-beautify": "~1.4.2",
+        "jshint": "~2.4.4"
+    },
+    "dependencies": {
+        "class-wolperting": "~0.0.6",
+        "lodash": "~2.4.1",
+        "request": "~2.34.0"
+    }
 }
