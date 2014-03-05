@@ -1,5 +1,7 @@
 # mollie-reseller
 
+[![Build Status](https://drone.io/github.com/mvhenten/molly-reseller/status.png)](https://drone.io/github.com/mvhenten/molly-reseller/latest)
+
 Unofficial implementation of the mollie-reseller API for node. This library is
 a straight forward port of some of the example php scripts supplied by Mollie.
 
