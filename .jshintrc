@@ -2,6 +2,7 @@
     "node": true,
     "nonstandard": true,
     "quotmark": "single",
+    "multistr": true,
     "undef": true,
     "unused": true,
     "strict": true,
@@ -11,6 +12,6 @@
         "test": true,
         "suite": true,
         "setup": true,
-		"teardown": true
+        "teardown": true
     }
 }
