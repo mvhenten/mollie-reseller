@@ -62,3 +62,8 @@ retrieve the correct credentials.
 
 1. I am in no way affilated with Mollie, except that I have joined their reseller API ;-)
 2. This module does not implement the actual payment backend - there are [others](https://www.npmjs.org/search?q=mollie)
+
+## Copyright
+
+Copyright 2014 Matthijs van Henten.
+Released under the GPLv3.
