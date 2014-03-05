@@ -1,8 +1,12 @@
 {
     "name": "mollie-reseller",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Client for the mollie reseller API",
     "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:mvhenten/mollie-reseller.git"
+    },
     "scripts": {
         "test": "./node_modules/mocha/bin/mocha -u tdd -R spec test"
     },
