@@ -1,6 +1,6 @@
 {
     "name": "mollie-reseller",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Client for the mollie reseller API",
     "main": "index.js",
     "repository": {
@@ -21,7 +21,7 @@
     "ecommerce"
   ],
     "author": "Matthijs van Henten",
-    "license": "GPLv3",
+    "license": "LGPLv3",
     "devDependencies": {
         "js-beautify": "~1.4.2",
         "jshint": "~2.4.4",
