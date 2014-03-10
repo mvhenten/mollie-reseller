@@ -68,4 +68,4 @@ retrieve the correct credentials.
 ## Copyright
 
 Copyright 2014 Matthijs van Henten.
-Released under the GPLv3.
+GNU LESSER GENERAL PUBLIC LICENSE Version 3, 29 June 2007
